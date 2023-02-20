@@ -39,27 +39,27 @@ const Home = () =>
                 </div>
             </div>
 
-            <h2 className="titulo-secao">Por que usar <b>aparelho</b>?</h2>
+            <h2 className="titulo-sessao">Por que usar <span>aparelho</span> ?</h2>
 
             <img className="img-aparelho" src="assets/aparelho.png" alt="Imagem do uso de um aparelho" title="Imagem do uso de um aparelho"/>
 
             <ul className="lista-sobre-aparelho limitar-container">
                 <li>
-                    <h3>Alinhar os dentes</h3>
+                    <h3><span>Alinhar</span> os dentes</h3>
                     <p>Dentes desalinhados causam problemas nos dentes e podem afetar a digestão dos alimentos e a respiração.</p>  
                 </li>
                 <li>
-                    <h3>Melhorar a dicção e a higiene dentária</h3>
+                    <h3><span>Melhorar</span> a dicção e a higiene dentária</h3>
                     <p>Muitas pessoas não conseguem nem usar fio dental devido à posição da sua dentição. Contudo, a correção possibilita o cuidado com a saúde bucal de forma bem mais ampla.</p>
                 </li>
                 <li>
-                    <h3>Corrigir espaços entre os dentes</h3>
+                    <h3><span>Melhorar os espaçamentos</span> entre os dentes</h3>
                     <p>Uma dentição desalinhada e com espaços significativos incomodam muitas pessoas. Usar aparelho nos dentes é uma das formas mais eficientes para que esses problemas possam ser corrigidos.</p>
                 </li>
             </ul>
 
             <div className="home-depoimentos">
-                <h2 className="titulo-secao">Veja o que nossos <b>clientes</b> estão falando...</h2>
+                <h2 className="titulo-sessao">Veja o que nossos <span>clientes</span> estão falando...</h2>
 
                 <ul className="lista-depoimentos">
                     <li>

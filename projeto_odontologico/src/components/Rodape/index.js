@@ -7,7 +7,7 @@ const Rodape = () =>
         <footer className="rodape">
 
             <div className="limitar-container">
-                Copyright 2021 | Developer David Silva
+                Copyright 2023 | Developer David Silva
             </div>
 
         </footer>

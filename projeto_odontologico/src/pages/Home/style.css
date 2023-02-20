@@ -12,12 +12,12 @@
     padding-top: 100px;
 }
 
-.home-apresentacao h1 
+.home-apresentacao h1
 {
     margin: 0;
     color: #fbd203;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: uppercase;
     letter-spacing: 2.4px;
 }
@@ -33,6 +33,12 @@
     font-size: 20px;
     font-weight: 300;
     line-height: 1.5em;
+}
+
+.lista-servicos
+{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .lista-servicos li
@@ -59,6 +65,19 @@
     text-align: left;
 }
 
+.titulo-sessao
+{
+    font-size: 30px;
+    font-weight: 300;
+    color: #1b3675;
+}
+
+.titulo-sessao span
+{
+    font-weight: 500;
+    color: #1b3675;
+}
+
 .img-aparelho
 {
     width: 100%;
@@ -79,6 +98,19 @@
     list-style: none;
     text-align: start;
     flex: 1;
+}
+
+.lista-sobre-aparelho h3
+{
+    font-size: 20px;
+    font-weight: 300;
+    color: #1b3675;
+}
+
+.lista-sobre-aparelho h3 > span
+{
+    font-weight: 500;
+    color: #1b3675;
 }
 
 .home-depoimentos
